@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-I have been learning Software Development since October of 2021 when I was transitioning out of the Marine Corps after a 13 year career. I started learning the basic 3 (HTML, JavaScript, and CSS) I recently moved onto learning React in June of 2022. I love using React because it is such a dynamic framework and after you climb the learning curve, you can start to learn other frameworks built on top of it. The accomplishment I am most proud of so far was graduating from Galvanize Operation Level Up in August of 2022. That course was 19 weeks long and it taught us Full Stack Web Development. Although it was quite challenging, I enjoyed the process of learning in a structured group setting where I could push and pull information around with my colleagues. If you have any questions or want to collaborate, contact me using my email below, on LinkedIn or Discord. Thank you!
+I have been learning Software Development since October of 2021 when I was transitioning out of the Marine Corps after a 13 year career. I started learning the basic 3 (HTML, JavaScript, and CSS) I recently moved onto learning React in June of 2022. I love using React because it is such a dynamic framework and after you climb the learning curve, you can start to learn other frameworks built on top of it. 
+
+The accomplishment I am most proud of so far was graduating from Galvanize Operation Level Up in August of 2022. That course was 19 weeks long and it taught us Full Stack Web Development. Although it was quite challenging, I enjoyed the process of learning in a structured group setting where I could push and pull information around with my colleagues. 
+
+If you have any questions or want to collaborate, contact me using my email below, on LinkedIn or Discord. Thank you!
 
 * 🌍  I'm based in Murrieta, California
 * ✉️  You can contact me at [bobbygrdn777@gmail.com](mailto:bobbygrdn777@gmail.com)
