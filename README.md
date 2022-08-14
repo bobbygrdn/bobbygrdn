@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-Full Stack Software Developer
+I am a Full Stack Software Developer.
 -----------------------------
 
 I have been learning Software Development since October of 2021 when I was transitioning out of the Marine Corps after a 13 year career. I started learning the basic 3 (HTML, JavaScript, and CSS) I recently moved onto learning React in June of 2022. I love using React because it is such a dynamic framework and after you climb the learning curve, you can start to learn other frameworks built on top of it. 
