@@ -42,4 +42,9 @@ I have been learning Software Development since October of 2021 when I was trans
 
 [![@bobbygrdn's Holopin board](https://holopin.io/api/user/board?user=bobbygrdn)](https://holopin.io/@bobbygrdn)
 
+<b>HackerRank Badge Board</b>
+
+[![@bobbygrdn's HackerRank Board](https://hackerrank-badge.herokuapp.com/bobbygrdn)]
+
+
 
