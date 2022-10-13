@@ -41,10 +41,3 @@ I have been learning Software Development since October of 2021 when I was trans
 <b>Hacktober Badge Board</b>
 
 [![@bobbygrdn's Holopin board](https://holopin.io/api/user/board?user=bobbygrdn)](https://holopin.io/@bobbygrdn)
-
-<b>HackerRank Badge Board</b>
-
-<iframe src="https://hackerrank-badge.herokuapp.com/bobbygrdn" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
-
-
