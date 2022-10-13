@@ -44,7 +44,7 @@ I have been learning Software Development since October of 2021 when I was trans
 
 <b>HackerRank Badge Board</b>
 
-[![@bobbygrdn's HackerRank Board](https://hackerrank-badge.herokuapp.com/bobbygrdn)]
+<iframe src="https://hackerrank-badge.herokuapp.com/bobbygrdn" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 
 
