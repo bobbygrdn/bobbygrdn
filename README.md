@@ -41,3 +41,10 @@ I have been learning Software Development since October of 2021 when I was trans
 <b>Hacktober Badge Board</b>
 
 [![@bobbygrdn's Holopin board](https://holopin.io/api/user/board?user=bobbygrdn)](https://holopin.io/@bobbygrdn)
+
+<b>FortiNet Badges</b>
+
+![FortiNet NSE 1 Badge](https://user-images.githubusercontent.com/96712943/198733019-7ca649c6-4d06-4a69-b7aa-6217044f6207.png)
+
+
+![NSE1]()
