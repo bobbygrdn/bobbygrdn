@@ -44,4 +44,5 @@ I have been learning Software Development since October of 2021 when I was trans
 
 <b>FortiNet Badges</b>
 
-<a href="https://training.fortinet.com/mod/customcert/verify_certificate.php" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/96712943/198733019-7ca649c6-4d06-4a69-b7aa-6217044f6207.png" width="(36*2)" height="(36*2)" alt="NSE1" /></a>
+<p align="left"><a href="https://training.fortinet.com/mod/customcert/verify_certificate.php" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/96712943/198733019-7ca649c6-4d06-4a69-b7aa-6217044f6207.png" width="72" height="72" alt="NSE1" /></a>
+</p>
