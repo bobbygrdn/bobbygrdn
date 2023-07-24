@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I am a Front End Developer.
--------------------------------------
-
 As a Front End Developer, I have been honing my skills since October 2021, following my transition from a 13-year career in the Marine Corps. I began by mastering the fundamentals of web development, including HTML, JavaScript, and CSS. In June 2022, I progressed to learning React, a dynamic framework that has opened up opportunities to explore additional frameworks. My proudest accomplishment to date was completing the 19-week Full Stack Web Development course at Galvanize Operation Level Up in August 2022. Despite the challenging nature of the course, I found the experience to be highly rewarding, particularly the collaborative and structured group setting in which I was able to share knowledge with my peers. Feeling the need to expand my knowledge and ability I attended a 18-week Full Stack Java Developer course at PerSCholas. I was able to add another programming language to my toolbox and I learned how to make Spring Boot Applications as well. This course was challenging, engaging and kept me in a constant state of learning. If you have any questions or are interested in collaborating, please do not hesitate to reach out to me via email or LinkedIn.
 
 <h3 align="left">Languages and Tools:</h3>
