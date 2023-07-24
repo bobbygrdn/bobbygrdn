@@ -26,10 +26,6 @@ As a Software Engineer, I have been honing my skills since October 2021, followi
 
 <a href="https://github.com/bobbygrdn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbygrdn&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Hacktober Badge Board</b>
-
-[![@bobbygrdn's Holopin board](https://holopin.io/api/user/board?user=bobbygrdn)](https://holopin.io/@bobbygrdn)
-
 <b>FortiNet Badges</b>
 
 <p align="left">
