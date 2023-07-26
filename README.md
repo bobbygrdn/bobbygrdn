@@ -1,15 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-As a Front End React Developer and dedicated Veteran Mentor, I bring extensive experience in web development, with a specialized focus on React. In my development journey, I have honed my skills in crafting responsive and dynamic user interfaces with React, enabling seamless user experiences. My proficiency extends to proficiently managing both SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB, ensuring that applications are built on a solid and scalable foundation.
+As a Front End React Developer and Veteran Mentor, I excel in crafting responsive user interfaces with a specialized focus on React. My expertise also encompasses managing SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB. To ensure top-notch solutions, I leverage essential tools such as Jest for robust testing, Zustand for efficient state management, and Mocha and Chai for comprehensive code testing. Additionally, I utilize Postman for API endpoint evaluation and NPM for streamlined dependency management, enhancing productivity and code quality.
 
-To ensure the highest quality of work, I leverage a diverse set of essential tools in my development process. Jest, an industry-standard testing framework, allows me to write thorough and reliable tests, ensuring the stability and performance of my applications. Zustand, a state management library, enables me to maintain clean and efficient data flow within my projects. In the realm of testing, Mocha and Chai prove invaluable in writing expressive and comprehensive tests, while Postman empowers me to thoroughly evaluate and debug API endpoints.
-
-Furthermore, I rely on NPM, the package manager for Node.js, to efficiently manage dependencies, enhance productivity, and streamline the development process. By skillfully using these tools, I guarantee that the solutions I deliver are not only innovative but also robust and well-tested.
-
-Driven by a passion for technology, development, and continuous learning, I actively seek out new challenges and opportunities to enhance my skills. Transitioning from a successful military career to software development has taught me the value of determination, adaptability, and teamwork. As a Veteran Mentor, I take pride in fostering a collaborative and growth-oriented environment, where I can contribute to the professional development of aspiring developers.
-
-Combining technical expertise with mentoring experience, I strive to deliver innovative solutions while supporting the growth of both projects and individuals. I am open to exciting collaborations and partnerships. Feel free to reach out to me via email or LinkedIn, and let's explore how we can create a positive impact together.
+Transitioning from a successful military career to software development has shaped my strong determination, adaptability, and teamwork skills. As a Veteran Mentor, I take pride in fostering a growth-oriented environment and contributing to the professional development of aspiring developers. Open to exciting collaborations and partnerships, I invite you to reach out via email or LinkedIn to explore how we can create a positive impact together.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
