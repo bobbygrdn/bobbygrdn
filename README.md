@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I am a Game Programmer and a Veteran Mentor with a strong background in web development. My passion involves creating user-friendly games that all ages can enjoy. I leverage the power of C# and the Godot Game Engine to develop diverse 2D and 3D gaming experiences.
+I am a Game Programmer and a Veteran Mentor with a strong background in web development. My passion involves creating user-friendly games that all ages can enjoy. I leverage the power of C#, C++, and the Godot Game Engine to develop diverse 2D and 3D gaming experiences.
 
 Transitioning from a successful military career to software development has shaped my determination, adaptability, and teamwork skills. As a Veteran Mentor, I take pride in fostering a growth-oriented environment and contributing to the professional development of aspiring developers. Open to exciting collaborations and partnerships, I invite you to reach out via email or LinkedIn to explore how we can create a positive impact together.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://godotengine.org/assets/press/icon_color.png" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
