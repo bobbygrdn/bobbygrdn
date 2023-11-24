@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I am a Game Programmer and a Veteran Mentor with a strong background in web development. My passion involves creating user-friendly games that all ages can enjoy. I leverage the power of C#, C++, Unity and the Godot Game Engine to develop diverse 2D and 3D gaming experiences.
+I am a Gameplay Engineer and a Veteran Mentor with a strong background in web development. My passion involves creating user-friendly games that all ages can enjoy. I leverage the power of C#, C++, Unity and the Godot Game Engine to develop diverse 2D and 3D gaming experiences.
 
 Transitioning from a successful military career to software development has shaped my determination, adaptability, and teamwork skills. As a Veteran Mentor, I take pride in fostering a growth-oriented environment and contributing to the professional development of aspiring developers. Open to exciting collaborations and partnerships, I invite you to reach out via email or LinkedIn to explore how we can create a positive impact together.
 
