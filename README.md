@@ -1,9 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I am a dedicated Full Stack Engineer with a focus on Front-end development. My journey in the tech industry has been filled with diverse experiences, constantly learning and applying new skills to build robust and user-friendly web applications. I’ve contributed to various projects, showcasing my adaptability and commitment to quality code. I’m always eager to take on new challenges and look forward to bringing my unique perspective to future projects.
+I'm a Full Stack Developer specialising in Java, JavaScript, Spring Boot, Node.js, React.js, PostgreSQL, MySQL. My current interests include Angular.js, Vue.js, GraphQL, and Firebase. I have 2 years of experience in the industry and I have built applications for the Education and Business industries.
 
-Transitioning from a successful military career to software development has shaped my determination, adaptability, and teamwork skills. As a Veteran Mentor, I take pride in fostering a growth-oriented environment and contributing to the professional development of aspiring developers. Open to exciting collaborations and partnerships, I invite you to reach out via email or LinkedIn to explore how we can create a positive impact together.
+You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which are available from my portfolio website here: https://bobbygrdn.github.io/portfolio/.
+
+My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
