@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Full Stack Developer specialising in Java, JavaScript, Spring Boot, Node.js, React.js, PostgreSQL, MySQL. My current interests include Angular.js, Vue.js, GraphQL, and Firebase. I have 2 years of experience in the industry and I have built applications for the Education and Business industries.
+I'm a Front-end Developer specialising in Java, JavaScript, Thymeleaf, React.js.
 
 You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which are available from my portfolio website here: https://bobbygrdn.github.io/portfolio/.
 
