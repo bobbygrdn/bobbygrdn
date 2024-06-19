@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Front-end Developer specialising in Java, JavaScript, Thymeleaf, React.js.
 
-You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which are available from my portfolio website here: https://bobbygrdn.github.io/portfolio/.
+You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which you can view in my repositories.
 
 My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
