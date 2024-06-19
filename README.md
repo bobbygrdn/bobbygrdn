@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Front-end Developer specialising in Java, JavaScript, Thymeleaf, React.js.
+I'm a Front-end Developer specialising in Java, JavaScript, Thymeleaf, and React.js.
 
 You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which you can view in my repositories.
 
