@@ -5,10 +5,12 @@ I'm a Full Stack Developer specialising in Java, JavaScript, Thymeleaf, and Reac
 
 You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which you can view in my here:
 
+<p>Repository Links:
 <a href="https://github.com/bobbygrdn/socket-playground">Socket Playground Chat Application</a>
 <a href="https://github.com/bobbygrdn/robert_gordon_learning_platform_capstone">Web Development Learning Platform</a>
 <a href="https://github.com/Team-Cache-Out/tech-port">Tech Port Ticket Management System</a>
 <a href="https://github.com/bobbygrdn/dating-app">FindLuv Dating App</a>
+</p>
 
 My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
