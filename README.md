@@ -44,4 +44,6 @@ My background is in Operations Management where I have expertise in operations m
 
 [![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=0&color=1)](https://visitcount.itsvg.in)
 
+![](https://github-profile-trophy.vercel.app/?username=bobbygrdn&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
 
