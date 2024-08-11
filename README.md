@@ -40,13 +40,6 @@ My background is in Operations Management where I have expertise in operations m
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bobbygrdn&theme=dark&hide_border=true)
 
-<a href="https://github.com/bobbygrdn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbygrdn&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbygrdn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<b>FortiNet Badges</b>
-
-<p align="left">
-<a href="https://training.fortinet.com/mod/customcert/verify_certificate.php" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/96712943/198733019-7ca649c6-4d06-4a69-b7aa-6217044f6207.png" width="96" height="96" alt="NSE1" /></a>
-<a href="https://training.fortinet.com/mod/customcert/verify_certificate.php" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/96712943/198898802-6e98e9f0-3131-4f4d-a25a-5048ef81d096.png" width="96" height="96" alt="NSE1" /></a>
-<a href="https://training.fortinet.com/mod/customcert/verify_certificate.php" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/96712943/199097252-449ac01b-49ef-4091-ab24-71a62e1a63c8.png" width="96" height="96" alt="NSE1" /></a>
-</p>
 
