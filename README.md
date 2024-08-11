@@ -38,6 +38,8 @@ My background is in Operations Management where I have expertise in operations m
 
 <a href="http://www.github.com/bobbygrdn"><img src="https://github-readme-stats.vercel.app/api?username=bobbygrdn&show_icons=true&hide=stars,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="bobbygrdn's GitHub stats" /></a>
 
+![](https://github-readme-stats.vercel.app/api?username=bobbygrdn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
 <a href="https://github.com/bobbygrdn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbygrdn&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>FortiNet Badges</b>
