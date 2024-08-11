@@ -38,9 +38,7 @@ My background is in Operations Management where I have expertise in operations m
   <a href="https://www.leetcode.com/bobbygrdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobbygrdn" height="32" width="32" /></a>
 </p>
 
-## Badges
-
-<b>My GitHub Stats</b>
+<h4 align="left">GitHub Stats</h4>
 
 ![](https://github-readme-stats.vercel.app/api?username=bobbygrdn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
