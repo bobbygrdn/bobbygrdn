@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Full Stack Developer specialising in <b>Java</b>, JavaScript, Thymeleaf, and React.js.
+I'm a Full Stack Developer specialising in <b>Java</b>, <b>JavaScript</b>, <b>Thymeleaf</b>, and <b>React.js</b>.
 
 You can see evidence of my work on a chat application Socket Playground, a learning platform Valor Academy, a ticket management system Tech Port, and a dating applicaiton FindLuv which you can view here:
 
