@@ -53,5 +53,3 @@ My background is in Operations Management where I have expertise in operations m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bobbygrdn&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbygrdn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=bobbygrdn&theme=default&no-frame=false&no-bg=true&margin-w=4)
