@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Full Stack Developer specialising in Java, JavaScript, Thymeleaf, and React.js.
 
-You can see evidence of my work on my learning platform Valor Academy, ticket management system Tech Port, and a dating applicaiton FindLuv which you can view in my here:
+You can see evidence of my work on a chat application Socket Playground, a learning platform Valor Academy, a ticket management system Tech Port, and a dating applicaiton FindLuv which you can view here:
 
 
 <a href="https://github.com/bobbygrdn/socket-playground">Socket Playground Chat Application</a><br>
