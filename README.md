@@ -13,7 +13,7 @@ You can see evidence of my work on a chat application Socket Playground, a learn
 
 My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
-[![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <h2 align="left">Languages and Tools</h2>
 
