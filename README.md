@@ -1,15 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Full Stack Developer specialising in <b>Java</b>, <b>JavaScript</b>, <b>Thymeleaf</b>, <b>React.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>.
-
-You can see evidence of my work on a chat application Socket Playground, a learning platform Valor Academy, a ticket management system Tech Port, and a dating applicaiton FindLuv which you can view here:
-
-
-<a href="https://github.com/bobbygrdn/socket-playground">Socket Playground Chat Application</a><br>
-<a href="https://github.com/bobbygrdn/robert_gordon_learning_platform_capstone">Web Development Learning Platform</a><br>
-<a href="https://github.com/Team-Cache-Out/tech-port">Tech Port Ticket Management System</a><br>
-<a href="https://github.com/bobbygrdn/dating-app">FindLuv Dating App</a><br>
+I'm a Front-End Developer specialising in <b>Java</b>, <b>JavaScript</b>, <b>Thymeleaf</b>, <b>React.js</b>, <b>MongoDB</b>, and <b>PostgreSQL</b>.
 
 My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
