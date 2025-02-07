@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Front-End Developer specialising in <b>JavaScript</b>, <b>Typescript</b>, <b>React.js</b>, <b>Java</b>, <b>Thymeleaf</b>, <b>MongoDB</b>, <b>MySQL</b>, and <b>PostgreSQL</b>.
+I'm a Front-Stack Developer specialising in <b>JavaScript</b>, <b>Typescript</b>, <b>React.js</b>, <b>Java</b>, <b>Thymeleaf</b>, <b>MongoDB</b>, <b>MySQL</b>, and <b>PostgreSQL</b>.
 
 My background is in Operations Management where I have expertise in operations management, strategic planning, and process improvement, proficiency in software development, data management, and application development, developed training programs and materials, enhancing team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
