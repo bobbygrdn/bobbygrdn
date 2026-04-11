@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Full-Stack Developer specializing in MongoDB, Express.js, React.js, Node.js, and TypeScript.
+I'm a Full-Stack Developer and Computer Science student specializing in the MERN-T stack and cloud-native architecture. I recently earned the AWS Knowledge: Serverless badge to deepen my expertise in building scalable, event-driven systems.
 
 My background is in Operations Management. I have expertise in operations management, strategic planning, and process improvement; proficiency in software development, data management, and application development; developed training programs and materials; and enhanced team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
 
@@ -26,9 +26,15 @@ My background is in Operations Management. I have expertise in operations manage
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<h4 align="left">Cloud & Infrastructure</h4>
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
 <h4 align="left">Developer Tools</h4>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+> **Latest Achievement:** Verified [AWS Knowledge: Serverless](https://skillbuilder.aws/learn/736QB43CDN/serverless-knowledge-badge-assessment) Badge.
 
 ## Socials
 
