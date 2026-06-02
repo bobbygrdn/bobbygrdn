@@ -14,8 +14,6 @@ Technical Expertise:
 
 I am currently learning Applied AI Architecture. Developing stateful AI systems using agentic reasoning (ReAct loops), custom memory schemas, and context hydration techniques. Transitioning into Information Retrieval theory by building custom vector search integrations, utilizing metadata filtering and approximate nearest neighbor (ANN) algorithms.
 
-To see examples of my work, please visit my GitHub: https://github.com/bobbygrdn or follow my work log here on LinkedIn via #bobbygrdn.
-
 Key Transitions & Achievements:
 - Apprenticeships: Developed real-world applications with Chingu and Project Ascend, focusing on user management and automated deployment pipelines.
 - Leadership: Managed personnel and resources for over 10 years to meet critical organizational goals.
