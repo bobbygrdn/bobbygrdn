@@ -52,14 +52,6 @@ Key Transitions & Achievements:
 
 > **Latest Achievement:** Verified [AWS Knowledge: Serverless](https://skillbuilder.aws/learn/736QB43CDN/serverless-knowledge-badge-assessment) Badge.
 
-## Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bobbygrdn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.hackerrank.com/bobbygrdn777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bobbygrdn777" height="32" width="32" /></a>
-  <a href="https://www.leetcode.com/bobbygrdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bobbygrdn" height="32" width="32" /></a>
-</p>
-
 <h2 align="left">GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=bobbygrdn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
