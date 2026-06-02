@@ -1,9 +1,25 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Gordon
 =====================================================================================================================================
 
-I'm a Full-Stack Developer and Computer Science student specializing in the MERN-T stack and cloud-native architecture. I recently earned the AWS Knowledge: Serverless badge to deepen my expertise in building scalable, event-driven systems.
+Full-Stack Software Engineer with 10+ years of Operations Leadership experience. I bridge the gap between complex business logic and scalable technical solutions using AWS & React. 
 
-My background is in Operations Management. I have expertise in operations management, strategic planning, and process improvement; proficiency in software development, data management, and application development; developed training programs and materials; and enhanced team readiness and efficiency. and have over 10 years of leadership experience managing personnel and resources to meet organizational goals.
+I specialize in React, Node, TypeScript, and AWS, leveraging a decade of military leadership to bring a unique, process-oriented perspective to software development. My background in operations allows me not just to write code but to understand the high-level strategic goals behind every feature.
+
+Technical Expertise:
+- Frontend: React.js, TypeScript
+- Backend: Node.js, Express.js, Java, Spring Boot, SQL/NoSQL
+- Tools: Docker, CI/CD (GitHub Actions), Agile/Scrum, Jira
+- Cloud: AWS, Amazon S3, Amazon Route 53, DNS Management, Lambda
+- Testing: Jest, React Testing Library
+
+I am currently learning Applied AI Architecture. Developing stateful AI systems using agentic reasoning (ReAct loops), custom memory schemas, and context hydration techniques. Transitioning into Information Retrieval theory by building custom vector search integrations, utilizing metadata filtering and approximate nearest neighbor (ANN) algorithms.
+
+To see examples of my work, please visit my GitHub: https://github.com/bobbygrdn or follow my work log here on LinkedIn via #bobbygrdn.
+
+Key Transitions & Achievements:
+- Apprenticeships: Developed real-world applications with Chingu and Project Ascend, focusing on user management and automated deployment pipelines.
+- Leadership: Managed personnel and resources for over 10 years to meet critical organizational goals.
+- Community: Dedicated mentor for veterans transitioning into tech through VETS2INDUSTRY.
 
 [![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=2&color=0)](https://visitcount.itsvg.in)
 
