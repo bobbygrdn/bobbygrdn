@@ -1,7 +1,7 @@
 Hello, My name is Robert Gordon
 =====================================================================================================================================
 
-Full-Stack Software Engineer with 10+ years of Operations Leadership experience. I bridge the gap between complex business logic and scalable technical solutions using AWS & React. 
+I bridge the gap between complex business logic and scalable technical solutions using AWS & React. 
 
 I specialize in React, Node, TypeScript, and AWS, leveraging a decade of military leadership to bring a unique, process-oriented perspective to software development. My background in operations allows me not just to write code but to understand the high-level strategic goals behind every feature.
 
