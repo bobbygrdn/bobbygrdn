@@ -1,23 +1,22 @@
 Hello, My name is Robert Gordon
 =====================================================================================================================================
 
-I bridge the gap between complex business logic and scalable technical solutions using AWS & React. 
+I bridge the gap between scalable cloud infrastructure and complex AI integrations.
 
-I specialize in React, Node, TypeScript, and AWS, leveraging a decade of military leadership to bring a unique, process-oriented perspective to software development. My background in operations allows me not just to write code but to understand the high-level strategic goals behind every feature.
+With a robust foundation in full-stack development (AWS, Node.js, TypeScript), my focus is firmly on the underlying conceptual frameworks of software engineering rather than just tool-specific syntax. I approach development with a systems-level perspective, analyzing architectural trade-offs to ensure that every feature I build aligns efficiently with high-level strategic goals.
 
-Technical Expertise:
-- Frontend: React.js, TypeScript
-- Backend: Node.js, Express.js, Java, Spring Boot, SQL/NoSQL
-- Tools: Docker, CI/CD (GitHub Actions), Agile/Scrum, Jira
-- Cloud: AWS, Amazon S3, Amazon Route 53, DNS Management, Lambda
-- Testing: Jest, React Testing Library
+Technical Focus & Expertise:
 
-I am currently learning Applied AI Architecture. Developing stateful AI systems using agentic reasoning (ReAct loops), custom memory schemas, and context hydration techniques. Transitioning into Information Retrieval theory by building custom vector search integrations, utilizing metadata filtering and approximate nearest neighbor (ANN) algorithms.
+- Systems Architecture & Cloud: AWS (S3, Route 53, Lambda, Serverless), Docker, CI/CD pipelines, and scalable database design (SQL/NoSQL).
+- Full-Stack Development: Building robust, responsive applications utilizing React.js, TypeScript, and RESTful APIs (Node/Express/Spring Boot).
+- AI Integration & Applied Architecture: Expanding my expertise through my open-source AI Engineering Lab. Having built custom vector search integrations and ReAct loops for stateful AI, my current focus is on Model Adaptation and Local Inference. I am currently evaluating the architectural trade-offs of running lightweight, localized LLM applications, focusing on how to efficiently adapt models for high-impact use cases while managing resource constraints.
 
-Key Transitions & Achievements:
-- Apprenticeships: Developed real-world applications with Chingu and Project Ascend, focusing on user management and automated deployment pipelines.
-- Leadership: Managed personnel and resources for over 10 years to meet critical organizational goals.
-- Community: Dedicated mentor for veterans transitioning into tech through VETS2INDUSTRY.
+To see my approach to these systems in action, explore my open-source repositories and my ongoing AI Engineering Lab on GitHub: https://github.com/bobbygrdn or follow my work log here on LinkedIn via #bobbygrdn.
+
+Key Engineering Milestones:
+
+- Applied Architecture: Actively architecting and deploying the AI Engineering Lab to explore the practical trade-offs of integrating LLMs into modern web applications.
+- Collaborative Open-Source Development: Engineered real-world applications and automated deployment pipelines in agile, team-based environments during apprenticeships with Chingu and Project Ascend.
 
 [![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=2&color=0)](https://visitcount.itsvg.in)
 
