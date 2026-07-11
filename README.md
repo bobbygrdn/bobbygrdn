@@ -11,7 +11,7 @@ Technical Focus & Expertise:
 - Full-Stack Development: Building robust, responsive applications utilizing React.js, TypeScript, and RESTful APIs (Node/Express/Spring Boot).
 - AI Integration & Applied Architecture: Expanding my expertise through my open-source AI Engineering Lab. Having built custom vector search integrations and ReAct loops for stateful AI, my current focus is on Model Adaptation and Local Inference. I am currently evaluating the architectural trade-offs of running lightweight, localized LLM applications, focusing on how to efficiently adapt models for high-impact use cases while managing resource constraints.
 
-To see my approach to these systems in action, explore my open-source repositories and my ongoing AI Engineering Lab on GitHub: https://github.com/bobbygrdn or follow my work log here on LinkedIn via #bobbygrdn.
+To see my approach to these systems in action, explore my open-source repositories and my ongoing AI Engineering Lab here on GitHub or follow my work log on LinkedIn via #bobbygrdn.
 
 Key Engineering Milestones:
 
