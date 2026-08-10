@@ -1,21 +1,21 @@
 Hello, My name is Robert Gordon
 =====================================================================================================================================
 
-I bridge the gap between scalable cloud infrastructure and complex AI integrations.
+I bridge the gap between scalable cloud infrastructure and zero-trust AI integrations.
 
-With a robust foundation in full-stack development (AWS, Node.js, TypeScript), my focus is firmly on the underlying conceptual frameworks of software engineering rather than just tool-specific syntax. I approach development with a systems-level perspective, analyzing architectural trade-offs to ensure that every feature I build aligns efficiently with high-level strategic goals.
+With a robust foundation in full-stack development (AWS, Node.js, TypeScript), I approach software engineering with a systems-level perspective. I focus on architectural trade-offs to ensure that every feature I build aligns efficiently with high-level strategic goals, specifically in the applied AI and MLOps space.
 
 Technical Focus & Expertise:
 
-- Systems Architecture & Cloud: AWS (S3, Route 53, Lambda, Serverless), Docker, CI/CD pipelines, and scalable database design (SQL/NoSQL).
+- AI Systems & MLOps: Architecting local, privacy-first AI microservices. Most recently, I built and deployed a deterministic PII redaction proxy using a local 8B parameter LLM fine-tuned via QLoRA. By containerizing the model with FastAPI and the NVIDIA Container Toolkit for direct CUDA passthrough, the system achieved a 100% Recall rate (zero data leaks) on sensitive enterprise data without relying on third-party APIs.
+- Systems Architecture & Cloud: AWS (S3, Route 53, Lambda, Serverless), Docker containerization, CI/CD pipelines, and scalable database design (SQL/NoSQL).
 - Full-Stack Development: Building robust, responsive applications utilizing React.js, TypeScript, and RESTful APIs (Node/Express/Spring Boot).
-- AI Integration & Applied Architecture: Expanding my expertise through my open-source AI Engineering Lab. Having built custom vector search integrations and ReAct loops for stateful AI, my current focus is on Model Adaptation and Local Inference. I am currently evaluating the architectural trade-offs of running lightweight, localized LLM applications, focusing on how to efficiently adapt models for high-impact use cases while managing resource constraints.
 
-To see my approach to these systems in action, explore my open-source repositories and my ongoing AI Engineering Lab here on GitHub or follow my work log on LinkedIn via #bobbygrdn.
+To see my approach to these systems in action, explore my open-source repositories—including my recent Architecture of Privacy Capstone and my ongoing AI Engineering Lab on GitHub: https://github.com/bobbygrdn
 
 Key Engineering Milestones:
 
-- Applied Architecture: Actively architecting and deploying the AI Engineering Lab to explore the practical trade-offs of integrating LLMs into modern web applications.
+- Production AI Deployment: Successfully built, tuned, mathematically benchmarked (F1-Scoring), and containerized custom LLM workflows to solve real-world enterprise compliance and latency constraints.
 - Collaborative Open-Source Development: Engineered real-world applications and automated deployment pipelines in agile, team-based environments during apprenticeships with Chingu and Project Ascend.
 
 [![](https://visitcount.itsvg.in/api?id=bobbygrdn&icon=2&color=0)](https://visitcount.itsvg.in)
