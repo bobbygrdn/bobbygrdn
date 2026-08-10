@@ -11,7 +11,7 @@ Technical Focus & Expertise:
 - Systems Architecture & Cloud: AWS (S3, Route 53, Lambda, Serverless), Docker containerization, CI/CD pipelines, and scalable database design (SQL/NoSQL).
 - Full-Stack Development: Building robust, responsive applications utilizing React.js, TypeScript, and RESTful APIs (Node/Express/Spring Boot).
 
-To see my approach to these systems in action, explore my open-source repositories—including my recent Architecture of Privacy Capstone and my ongoing AI Engineering Lab on GitHub: https://github.com/bobbygrdn
+To see my approach to these systems in action, explore my open-source repositories—including my recent Architecture of Privacy Capstone and my AI Engineering Lab.
 
 Key Engineering Milestones:
 
